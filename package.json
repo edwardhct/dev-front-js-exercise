@@ -1,0 +1,23 @@
+{
+  "name": "dev-front-js-exercise",
+  "version": "1.0.0",
+  "description": "These are a series of javascript exercises intended to be used alongside the curriculum at 'The Odin Project'  They start very simply, but get more involved as you progress through them.",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^3.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardhct/dev-front-js-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwardhct/dev-front-js-exercise/issues"
+  },
+  "homepage": "https://github.com/edwardhct/dev-front-js-exercise#readme"
+}
